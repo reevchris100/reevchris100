@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=reevchris100&color=green)
   
 <p align="center"> 
-    <img src = "https://user-images.githubusercontent.com/100037271/217868410-dfaf3709-0c50-4fa9-adce-246979f0aa8b.gif">
+    <img width="229" alt="codebuzzlogo" src="https://user-images.githubusercontent.com/11132089/226205009-4b5a8e28-ce17-48fe-ba67-f8ededdc7385.png">
 </p>
 
 
