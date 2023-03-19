@@ -9,7 +9,6 @@
 <h1 align="center">Hey , 👋 I'm Reevan Chris</h1>
 <h3 align="center">Developing apps one step at a time!</h3>
 
-- 📫 How to reach me **reevchris100@gmail.com**
 - :globe_with_meridians: https://code-buzz.com/
 
 <h3 align="left">Connect with me:</h3>
