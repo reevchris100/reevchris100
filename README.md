@@ -9,7 +9,10 @@
 <h1 align="center">Hey , 👋 I'm Reevan Chris</h1>
 <h3 align="center">Developing apps one step at a time!</h3>
 
-- :globe_with_meridians: https://code-buzz.com/
+-  :globe_with_meridians: https://code-buzz.com/
+-  :computer: https://leetcode.com/reevchris/
+-  :envelope: reevchris100@gmail.com
+-  :link: https://sites.google.com/view/reevchris/home
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
