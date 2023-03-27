@@ -8,7 +8,6 @@
 
 -  :globe_with_meridians: https://code-buzz.com/
 -  :computer: https://leetcode.com/reevchris/
--  :envelope: reevchris100@gmail.com
 -  :link: https://sites.google.com/view/reevchris/home
 
 ### Languages & Technologies
