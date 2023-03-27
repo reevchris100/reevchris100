@@ -14,25 +14,18 @@
 ### 🚀 Languages & Technologies
 
 <div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />  
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<!-- ### Frontend Development -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 <!-- ### Backend Development -->
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />  
 <!-- ### Database -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+<!-- ### Frontend Development -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <!-- ### Devops -->
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />  
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
 <!-- ### Backend as a service -->
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" />
 <!-- ### Software -->
