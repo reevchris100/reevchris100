@@ -1,12 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=reevchris100&color=green)
   
+<h1 align="center">Hey , 👋 I'm Reevan Chris, nice to see you!</h1>
 <p align="center"> 
     <img width="229" alt="codebuzzlogo" src="https://user-images.githubusercontent.com/11132089/226205009-4b5a8e28-ce17-48fe-ba67-f8ededdc7385.png">
 </p>
-
-
-
-<h1 align="center">Hey , 👋 I'm Reevan Chris, nice to see you!</h1>
 <h3 align="center">Developing apps one step at a time!</h3>
 
 -  :globe_with_meridians: https://code-buzz.com/
