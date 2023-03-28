@@ -6,9 +6,9 @@
 </p>
 <h3 align="center">Developing apps one step at a time!</h3>
 
--  :globe_with_meridians: https://code-buzz.com/
--  :computer: https://leetcode.com/reevchris/
--  :link: https://sites.google.com/view/reevchris/home
+-  My blog - :globe_with_meridians: https://code-buzz.com/
+-  Leetcode :computer: https://leetcode.com/reevchris/
+-  My Portfolio - :link: https://sites.google.com/view/reevchris/home
 
 ### Languages & Technologies
 
