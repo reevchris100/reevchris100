@@ -35,8 +35,9 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />
 </div>
 
-### My GitHub Pages
-Simple React App - https://reevchris100.github.io/simple-react-app/
+### My Apps
+Simple React App on GitHub Pages - https://reevchris100.github.io/simple-react-app/
+Simple React App on Vercel - https://vercel-react-app-eight-ebon.vercel.app/
 
 
 
