@@ -40,6 +40,8 @@ Simple React App on GitHub Pages - https://reevchris100.github.io/simple-react-a
 
 Simple React App on Vercel - https://vercel-react-app-eight-ebon.vercel.app/
 
+Simple React App on Netlify - https://master--spectacular-crumble-5461b7.netlify.app/
+
 
 
 
