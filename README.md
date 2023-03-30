@@ -10,7 +10,7 @@
 -  Leetcode - :computer: https://leetcode.com/reevchris/
 -  My Portfolio - :link: https://sites.google.com/view/reevchris/home
 
-### Languages & Technologies
+### Technologies and Tools
 
 <div align="center">
 <!-- ### Backend Development -->
