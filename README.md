@@ -9,6 +9,7 @@
 -  My blog - :globe_with_meridians: https://code-buzz.com/
 -  Leetcode - :computer: https://leetcode.com/reevchris/
 -  My Portfolio - :link: https://sites.google.com/view/reevchris/home
+-  Connect with me on :link: https://topmate.io/reevan_chris
 
 ### Technologies and Tools
 
