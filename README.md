@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=reevchris100&color=green)
   
 <h1 align="center">Hey, I'm Reevan Chris, nice to see you!👋</h1>
-<a href="https://topmate.io/reevan_chris"><img src="https://topmate-readme-badge.onrender.com/reevan_chris?style=flat" alt="Connect on Topmate" /></a>
 <p align="center"> 
     <img width="229" alt="codebuzzlogo" src="https://user-images.githubusercontent.com/11132089/226205009-4b5a8e28-ce17-48fe-ba67-f8ededdc7385.png">
 </p>
