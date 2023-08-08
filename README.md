@@ -10,6 +10,7 @@
 -  Leetcode - :computer: https://leetcode.com/reevchris/
 -  My Portfolio - :link: https://sites.google.com/view/reevchris/home
 -  Connect with me on :link: https://topmate.io/reevan_chris
+-  Stack Overflow :link: https://stackoverflow.com/users/5115776/reevchris
 
 ### Technologies and Tools
 
